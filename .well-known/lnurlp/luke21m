@@ -2,7 +2,7 @@
   "status":"OK",
   "tag":"payRequest",
   "commentAllowed":255,
-  "callback":"https://getalby.com/lnurlp/lukecallback",
+  "callback":"https://getalby.com/lnurlp/luke/callback",
   "metadata":"[[\"text/identifier\", \"luke21m@getalby.com\"], [\"text/plain\", \"Sats for luke\"]]",
   "minSendable":1000,"maxSendable":11000000000,
   "payerData":
