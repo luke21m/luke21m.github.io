@@ -4,7 +4,7 @@
   "commentAllowed":255,
   "callback":"https://getalby.com/lnurlp/luke21m/callback",
   "metadata":"[[\"text/identifier\", \"luke21m@getalby.com\"], [\"text/plain\", \"Sats for luke21m\"]]",
-  "minSendable":1000,"maxSendable":11000000000,
+  "minSendable":10,"maxSendable":11000000000,
   "payerData":
     {
       "name":{"mandatory":false},
