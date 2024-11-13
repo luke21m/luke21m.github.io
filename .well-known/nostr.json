@@ -1,0 +1,13 @@
+{
+  "names": {
+    "_": "ff2d9335639aaaaf64c96018879b7116c4550d2574ecac2595a9f17e3e0529b6",
+    "luke":"ff2d9335639aaaaf64c96018879b7116c4550d2574ecac2595a9f17e3e0529b6",
+    "debt": "81936ecfbddba9cf384701cccc807ce9cd5b4a40a4a45764a65001044509c340"
+  },
+  "relays": {
+    "ff2d9335639aaaaf64c96018879b7116c4550d2574ecac2595a9f17e3e0529b6": [
+      "wss://lightningrelay.com",
+      "wss://eden.nostr.land"
+    ]
+  }
+}
